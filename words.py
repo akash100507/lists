@@ -23,9 +23,9 @@ if __name__ == "__main__":
   url3 = "https://raw.githubusercontent.com/akash100507/lists/master/word_undo.txt"
   print("List3")
   display(url3)
-  url4 = "https://raw.githubusercontent.com/akash100507/lists/master/word3.txt"
+  url4 = "https://raw.githubusercontent.com/akash100507/lists/master/words3.txt"
   print("List4")
   display(url4)
-  url5 = "https://raw.githubusercontent.com/akash100507/lists/master/word4.txt"
+  url5 = "https://raw.githubusercontent.com/akash100507/lists/master/words4.txt"
   print("List5")
   display(url5)
