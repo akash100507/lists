@@ -14,9 +14,18 @@ def display(link):
   
   
 if __name__ == "__main__":
-  url1 = "https://raw.githubusercontent.com/akash100507/lists/main/words1.txt"
+  url1 = "https://raw.githubusercontent.com/akash100507/lists/master/words1.txt"
   print("List1")
   display(url1)
-  url2 = "https://raw.githubusercontent.com/akash100507/lists/main/words2.txt"
+  url2 = "https://raw.githubusercontent.com/akash100507/lists/master/words2.txt"
   print("List2")
   display(url2)
+  url3 = "https://raw.githubusercontent.com/akash100507/lists/master/word_undo.txt"
+  print("List3")
+  display(url3)
+  url4 = "https://raw.githubusercontent.com/akash100507/lists/master/word3.txt"
+  print("List4")
+  display(url4)
+  url5 = "https://raw.githubusercontent.com/akash100507/lists/master/word4.txt"
+  print("List5")
+  display(url5)
