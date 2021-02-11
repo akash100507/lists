@@ -167,7 +167,6 @@ eke
 scrimp
 scrape
 placate
-assuage
 absolve
 vindicate
 pontificate
@@ -333,3 +332,4 @@ distaste
 effrontery
 intuition
 discernible
+-------
