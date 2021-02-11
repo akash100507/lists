@@ -38,3 +38,4 @@ promulgate
 unpropitious
 cursory
 fidelity
+chary
