@@ -8,10 +8,7 @@ def display(link):
     t = i.decode("utf-8")
     l.append(t)
   u = len(l)
-  if (u>=335):
-    m = 30
-  else:
-    m = 15
+  m = 30
   for w in random.sample(l,m):
     print(w)
   
