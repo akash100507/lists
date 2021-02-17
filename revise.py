@@ -8,7 +8,7 @@ def display(link):
     t = i.decode("utf-8")
     l.append(t)
   u = len(l)
-  m = 30
+  m = 50
   for w in random.sample(l,m):
     print(w)
     
