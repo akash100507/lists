@@ -14,7 +14,7 @@ def display(link):
     
 if __name__ == "__main__":
   
-  for j in range(1,2):
+  for j in range(1,3):
     url = "https://raw.githubusercontent.com/akash100507/lists/master/sets/lists"+str(j)+".txt"
     print("List "+str(j))
     display(url)
