@@ -8,9 +8,12 @@ def display(link):
     t = i.decode("utf-8")
     l.append(t)
   u = len(l)
-  m = 50
+  m = 20
   for w in random.sample(l,m):
     print(w)
+  # m = 50
+  # for w in random.sample(l,m):
+  #   print(w)
     
 if __name__ == "__main__":
   
