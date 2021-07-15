@@ -17,7 +17,7 @@ def display(link):
     
 if __name__ == "__main__":
   
-  url = "https://raw.githubusercontent.com/akash100507/lists/master/sets/New_docs/sample.txt"
+  url = "https://raw.githubusercontent.com/akash100507/lists/master/sets/New_docs/testweek3.txt"
 # print("List "+str(j))
   display(url)
 #   #print("\n\n\n------------------------------------\n\n")
